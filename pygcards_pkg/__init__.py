@@ -1,1 +1,0 @@
-name = "pygcards_pkg"

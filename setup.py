@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pygcards-pygdev",
-    version="0.0.1",
+    version="0.0.3",
     author="pygdev",
     author_email="gdev5@fastmail.com",
     description="A cards framework for python",
