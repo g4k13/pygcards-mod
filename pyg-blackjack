@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+from pygcards import BlackJack
+
+game = BlackJack()
+game.play_game()

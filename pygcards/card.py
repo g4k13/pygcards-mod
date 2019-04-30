@@ -11,3 +11,6 @@ class Card:
 
     def is_ace(self):
         return self.rank == 'A'
+
+    def to_string(self):
+        return self.suit + str(self.rank)
